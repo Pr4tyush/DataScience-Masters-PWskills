@@ -1,0 +1,7 @@
+WARNING:root:This is my warning Information
+ERROR:root:This is my error message
+CRITICAL:root:this is my critical message
+ERROR:root:This is my error msg
+CRITICAL:root:This is my critical
+ERROR:root:This is my error msg
+CRITICAL:root:This is my critical

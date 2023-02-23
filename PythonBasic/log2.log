@@ -1,0 +1,160 @@
+2023-02-12 18:26:34,142 root INFO  This is my info logging
+2023-02-12 18:26:34,143 root ERROR  This is my error msg
+2023-02-12 18:26:34,143 root CRITICAL  This is my critical
+2023-02-12 18:31:25,376 parso.cache DEBUG  pickle loaded: C:\Users\admin\AppData\Local\Programs\Python\Python39\lib\logging\__init__.py
+2023-02-12 18:31:25,670 parso.python.diff DEBUG  diff parser start
+2023-02-12 18:31:25,671 parso.python.diff DEBUG  line_lengths old: 4; new: 4
+2023-02-12 18:31:25,671 parso.python.diff DEBUG  -> code[equal] old[1:3] new[1:3]
+2023-02-12 18:31:25,672 parso.python.diff DEBUG  copy old[1:2] new[1:2]
+2023-02-12 18:31:25,673 parso.python.diff DEBUG  parse_part from 3 to 4 (to 3 in part parser)
+2023-02-12 18:31:25,674 parso.python.diff DEBUG  -> code[replace] old[4:4] new[4:4]
+2023-02-12 18:31:25,675 parso.python.diff DEBUG  diff parser end
+2023-02-12 18:32:04,145 parso.python.diff DEBUG  diff parser start
+2023-02-12 18:32:04,146 parso.python.diff DEBUG  line_lengths old: 4; new: 7
+2023-02-12 18:32:04,146 parso.python.diff DEBUG  -> code[equal] old[1:3] new[1:3]
+2023-02-12 18:32:04,147 parso.python.diff DEBUG  copy old[1:2] new[1:2]
+2023-02-12 18:32:04,151 parso.python.diff DEBUG  parse_part from 3 to 7 (to 6 in part parser)
+2023-02-12 18:32:04,151 parso.python.diff DEBUG  -> code[replace] old[4:4] new[4:7]
+2023-02-12 18:32:04,152 parso.python.diff DEBUG  diff parser end
+2023-02-12 18:32:04,453 parso.python.diff DEBUG  diff parser start
+2023-02-12 18:32:04,454 parso.python.diff DEBUG  line_lengths old: 7; new: 7
+2023-02-12 18:32:04,455 parso.python.diff DEBUG  -> code[equal] old[1:6] new[1:6]
+2023-02-12 18:32:04,456 parso.python.diff DEBUG  copy old[1:2] new[1:2]
+2023-02-12 18:32:04,461 parso.python.diff DEBUG  parse_part from 3 to 7 (to 6 in part parser)
+2023-02-12 18:32:04,461 parso.python.diff DEBUG  -> code[replace] old[7:7] new[7:7]
+2023-02-12 18:32:04,462 parso.python.diff DEBUG  diff parser end
+2023-02-12 18:32:04,882 parso.python.diff DEBUG  diff parser start
+2023-02-12 18:32:04,883 parso.python.diff DEBUG  line_lengths old: 7; new: 7
+2023-02-12 18:32:04,884 parso.python.diff DEBUG  -> code[equal] old[1:6] new[1:6]
+2023-02-12 18:32:04,884 parso.python.diff DEBUG  copy old[1:2] new[1:2]
+2023-02-12 18:32:04,888 parso.python.diff DEBUG  parse_part from 3 to 7 (to 6 in part parser)
+2023-02-12 18:32:04,888 parso.python.diff DEBUG  -> code[replace] old[7:7] new[7:7]
+2023-02-12 18:32:04,889 parso.python.diff DEBUG  diff parser end
+2023-02-12 18:32:05,235 parso.python.diff DEBUG  diff parser start
+2023-02-12 18:32:05,237 parso.python.diff DEBUG  line_lengths old: 7; new: 7
+2023-02-12 18:32:05,237 parso.python.diff DEBUG  -> code[equal] old[1:6] new[1:6]
+2023-02-12 18:32:05,238 parso.python.diff DEBUG  copy old[1:2] new[1:2]
+2023-02-12 18:32:05,244 parso.python.diff DEBUG  parse_part from 3 to 7 (to 6 in part parser)
+2023-02-12 18:32:05,244 parso.python.diff DEBUG  -> code[replace] old[7:7] new[7:7]
+2023-02-12 18:32:05,245 parso.python.diff DEBUG  diff parser end
+2023-02-12 18:33:22,443 root INFO  We are iterating through our local var i
+2023-02-12 18:33:22,444 root INFO  We are iterating through our local var i
+2023-02-12 18:33:22,444 root INFO  We are iterating through our local var i
+2023-02-12 18:33:22,444 root INFO  We are iterating through our local var i
+2023-02-12 18:33:22,444 root INFO  We are iterating through our local var i
+2023-02-12 18:33:22,444 root INFO  We are iterating through our local var i
+2023-02-12 18:33:22,445 root INFO  We are iterating through our local var i
+2023-02-12 18:33:22,445 root INFO  We are iterating through our local var i
+2023-02-12 18:33:22,445 root INFO  We are iterating through our local var i
+2023-02-12 18:33:22,445 root INFO  We are iterating through our local var i
+2023-02-12 18:33:22,445 root INFO  Inside if statment and tryimg to check condition
+2023-02-12 18:33:22,446 root INFO  Inside for statment and tryimg to check condition
+2023-02-12 18:33:22,446 root INFO  Inside if statment and tryimg to check condition
+2023-02-12 18:33:22,446 root INFO  Inside for statment and tryimg to check condition
+2023-02-12 18:33:22,446 root INFO  Inside if statment and tryimg to check condition
+2023-02-12 18:33:22,447 root INFO  Inside for statment and tryimg to check condition
+2023-02-12 18:33:22,447 root INFO  Inside if statment and tryimg to check condition
+2023-02-12 18:33:22,448 root INFO  We are iterating through our local var i
+2023-02-12 18:33:22,448 root INFO  We are iterating through our local var i
+2023-02-12 18:36:47,910 root INFO  We are iterating through our local var i[1, 2, 3, 4, 5, 6, 6, 7, 7, [2, 3, 4], 'Pratyush', 'Kumar']
+2023-02-12 18:36:47,910 root INFO  We are iterating through our local var i[1, 2, 3, 4, 5, 6, 6, 7, 7, [2, 3, 4], 'Pratyush', 'Kumar']
+2023-02-12 18:36:47,911 root INFO  We are iterating through our local var i[1, 2, 3, 4, 5, 6, 6, 7, 7, [2, 3, 4], 'Pratyush', 'Kumar']
+2023-02-12 18:36:47,911 root INFO  We are iterating through our local var i[1, 2, 3, 4, 5, 6, 6, 7, 7, [2, 3, 4], 'Pratyush', 'Kumar']
+2023-02-12 18:36:47,911 root INFO  We are iterating through our local var i[1, 2, 3, 4, 5, 6, 6, 7, 7, [2, 3, 4], 'Pratyush', 'Kumar']
+2023-02-12 18:36:47,912 root INFO  We are iterating through our local var i[1, 2, 3, 4, 5, 6, 6, 7, 7, [2, 3, 4], 'Pratyush', 'Kumar']
+2023-02-12 18:36:47,912 root INFO  We are iterating through our local var i[1, 2, 3, 4, 5, 6, 6, 7, 7, [2, 3, 4], 'Pratyush', 'Kumar']
+2023-02-12 18:36:47,913 root INFO  We are iterating through our local var i[1, 2, 3, 4, 5, 6, 6, 7, 7, [2, 3, 4], 'Pratyush', 'Kumar']
+2023-02-12 18:36:47,913 root INFO  We are iterating through our local var i[1, 2, 3, 4, 5, 6, 6, 7, 7, [2, 3, 4], 'Pratyush', 'Kumar']
+2023-02-12 18:36:47,913 root INFO  We are iterating through our local var i[1, 2, 3, 4, 5, 6, 6, 7, 7, [2, 3, 4], 'Pratyush', 'Kumar']
+2023-02-12 18:36:47,914 root INFO  Inside if statment and tryimg to check condition[2, 3, 4]
+2023-02-12 18:36:47,914 root INFO  Inside for statment and tryimg to check condition
+2023-02-12 18:36:47,914 root INFO  Inside if statment and tryimg to check condition
+2023-02-12 18:36:47,914 root INFO  Inside for statment and tryimg to check condition
+2023-02-12 18:36:47,916 root INFO  Inside if statment and tryimg to check condition
+2023-02-12 18:36:47,916 root INFO  Inside for statment and tryimg to check condition
+2023-02-12 18:36:47,917 root INFO  Inside if statment and tryimg to check condition
+2023-02-12 18:36:47,917 root INFO  We are iterating through our local var i[1, 2, 3, 4, 5, 6, 6, 7, 7, [2, 3, 4], 'Pratyush', 'Kumar']
+2023-02-12 18:36:47,917 root INFO  We are iterating through our local var i[1, 2, 3, 4, 5, 6, 6, 7, 7, [2, 3, 4], 'Pratyush', 'Kumar']
+2023-02-12 18:37:35,087 root INFO  We are iterating through our local var i[1, 2, 3, 4, 5, 6, 6, 7, 7, [2, 3, 4], 'Pratyush', 'Kumar']
+2023-02-12 18:37:35,088 root INFO  We are iterating through our local var i[1, 2, 3, 4, 5, 6, 6, 7, 7, [2, 3, 4], 'Pratyush', 'Kumar']
+2023-02-12 18:37:35,089 root INFO  We are iterating through our local var i[1, 2, 3, 4, 5, 6, 6, 7, 7, [2, 3, 4], 'Pratyush', 'Kumar']
+2023-02-12 18:37:35,090 root INFO  We are iterating through our local var i[1, 2, 3, 4, 5, 6, 6, 7, 7, [2, 3, 4], 'Pratyush', 'Kumar']
+2023-02-12 18:37:35,091 root INFO  We are iterating through our local var i[1, 2, 3, 4, 5, 6, 6, 7, 7, [2, 3, 4], 'Pratyush', 'Kumar']
+2023-02-12 18:37:35,091 root INFO  We are iterating through our local var i[1, 2, 3, 4, 5, 6, 6, 7, 7, [2, 3, 4], 'Pratyush', 'Kumar']
+2023-02-12 18:37:35,092 root INFO  We are iterating through our local var i[1, 2, 3, 4, 5, 6, 6, 7, 7, [2, 3, 4], 'Pratyush', 'Kumar']
+2023-02-12 18:37:35,093 root INFO  We are iterating through our local var i[1, 2, 3, 4, 5, 6, 6, 7, 7, [2, 3, 4], 'Pratyush', 'Kumar']
+2023-02-12 18:37:35,093 root INFO  We are iterating through our local var i[1, 2, 3, 4, 5, 6, 6, 7, 7, [2, 3, 4], 'Pratyush', 'Kumar']
+2023-02-12 18:37:35,094 root INFO  We are iterating through our local var i[1, 2, 3, 4, 5, 6, 6, 7, 7, [2, 3, 4], 'Pratyush', 'Kumar']
+2023-02-12 18:37:35,094 root INFO  Inside if statment and tryimg to check condition[2, 3, 4]
+2023-02-12 18:37:35,094 root INFO  Inside for statment and tryimg to check condition2
+2023-02-12 18:37:35,095 root INFO  Inside if statment and tryimg to check condition
+2023-02-12 18:37:35,095 root INFO  Inside for statment and tryimg to check condition3
+2023-02-12 18:37:35,095 root INFO  Inside if statment and tryimg to check condition
+2023-02-12 18:37:35,096 root INFO  Inside for statment and tryimg to check condition4
+2023-02-12 18:37:35,096 root INFO  Inside if statment and tryimg to check condition
+2023-02-12 18:37:35,096 root INFO  We are iterating through our local var i[1, 2, 3, 4, 5, 6, 6, 7, 7, [2, 3, 4], 'Pratyush', 'Kumar']
+2023-02-12 18:37:35,096 root INFO  We are iterating through our local var i[1, 2, 3, 4, 5, 6, 6, 7, 7, [2, 3, 4], 'Pratyush', 'Kumar']
+2023-02-12 18:40:04,097 root INFO  We are iterating through our local var is [1, 2, 3, 4, 5, 6, 6, 7, 7, [2, 3, 4], 'Pratyush', 'Kumar']
+2023-02-12 18:40:04,098 root INFO  We are iterating through our local var is [1, 2, 3, 4, 5, 6, 6, 7, 7, [2, 3, 4], 'Pratyush', 'Kumar']
+2023-02-12 18:40:04,098 root INFO  We are iterating through our local var is [1, 2, 3, 4, 5, 6, 6, 7, 7, [2, 3, 4], 'Pratyush', 'Kumar']
+2023-02-12 18:40:04,099 root INFO  We are iterating through our local var is [1, 2, 3, 4, 5, 6, 6, 7, 7, [2, 3, 4], 'Pratyush', 'Kumar']
+2023-02-12 18:40:04,099 root INFO  We are iterating through our local var is [1, 2, 3, 4, 5, 6, 6, 7, 7, [2, 3, 4], 'Pratyush', 'Kumar']
+2023-02-12 18:40:04,100 root INFO  We are iterating through our local var is [1, 2, 3, 4, 5, 6, 6, 7, 7, [2, 3, 4], 'Pratyush', 'Kumar']
+2023-02-12 18:40:04,100 root INFO  We are iterating through our local var is [1, 2, 3, 4, 5, 6, 6, 7, 7, [2, 3, 4], 'Pratyush', 'Kumar']
+2023-02-12 18:40:04,100 root INFO  We are iterating through our local var is [1, 2, 3, 4, 5, 6, 6, 7, 7, [2, 3, 4], 'Pratyush', 'Kumar']
+2023-02-12 18:40:04,101 root INFO  We are iterating through our local var is [1, 2, 3, 4, 5, 6, 6, 7, 7, [2, 3, 4], 'Pratyush', 'Kumar']
+2023-02-12 18:40:04,101 root INFO  We are iterating through our local var is [1, 2, 3, 4, 5, 6, 6, 7, 7, [2, 3, 4], 'Pratyush', 'Kumar']
+2023-02-12 18:40:04,101 root INFO  Inside if statment and tryimg to check condition[2, 3, 4]
+2023-02-12 18:40:04,101 root INFO  Inside for statment and tryimg to check condition2
+2023-02-12 18:40:04,102 root INFO  Inside if statment and tryimg to check condition
+2023-02-12 18:40:04,102 root INFO  Inside for statment and tryimg to check condition3
+2023-02-12 18:40:04,102 root INFO  Inside if statment and tryimg to check condition
+2023-02-12 18:40:04,103 root INFO  Inside for statment and tryimg to check condition4
+2023-02-12 18:40:04,103 root INFO  Inside if statment and tryimg to check condition
+2023-02-12 18:40:04,103 root INFO  We are iterating through our local var is [1, 2, 3, 4, 5, 6, 6, 7, 7, [2, 3, 4], 'Pratyush', 'Kumar']
+2023-02-12 18:40:04,103 root INFO  We are iterating through our local var is [1, 2, 3, 4, 5, 6, 6, 7, 7, [2, 3, 4], 'Pratyush', 'Kumar']
+2023-02-12 18:40:52,029 parso.python.diff DEBUG  diff parser start
+2023-02-12 18:40:52,030 parso.python.diff DEBUG  line_lengths old: 7; new: 17
+2023-02-12 18:40:52,030 parso.python.diff DEBUG  -> code[equal] old[1:3] new[1:3]
+2023-02-12 18:40:52,031 parso.python.diff DEBUG  copy old[1:2] new[1:2]
+2023-02-12 18:40:52,041 parso.python.diff DEBUG  parse_part from 3 to 17 (to 16 in part parser)
+2023-02-12 18:40:52,042 parso.python.diff DEBUG  -> code[replace] old[4:4] new[4:4]
+2023-02-12 18:40:52,043 parso.python.diff DEBUG  -> code[equal] old[5:5] new[5:5]
+2023-02-12 18:40:52,043 parso.python.diff DEBUG  -> code[insert] old[6:5] new[6:6]
+2023-02-12 18:40:52,044 parso.python.diff DEBUG  -> code[equal] old[6:6] new[7:7]
+2023-02-12 18:40:52,044 parso.python.diff DEBUG  -> code[replace] old[7:7] new[8:17]
+2023-02-12 18:40:52,044 parso.python.diff DEBUG  diff parser end
+2023-02-12 18:40:52,598 parso.python.diff DEBUG  diff parser start
+2023-02-12 18:40:52,598 parso.python.diff DEBUG  line_lengths old: 17; new: 17
+2023-02-12 18:40:52,599 parso.python.diff DEBUG  -> code[equal] old[1:16] new[1:16]
+2023-02-12 18:40:52,599 parso.python.diff DEBUG  copy old[1:2] new[1:2]
+2023-02-12 18:40:52,608 parso.python.diff DEBUG  parse_part from 3 to 17 (to 16 in part parser)
+2023-02-12 18:40:52,609 parso.python.diff DEBUG  -> code[replace] old[17:17] new[17:17]
+2023-02-12 18:40:52,609 parso.python.diff DEBUG  diff parser end
+2023-02-12 18:40:52,918 parso.python.diff DEBUG  diff parser start
+2023-02-12 18:40:52,918 parso.python.diff DEBUG  line_lengths old: 17; new: 17
+2023-02-12 18:40:52,919 parso.python.diff DEBUG  -> code[equal] old[1:16] new[1:16]
+2023-02-12 18:40:52,920 parso.python.diff DEBUG  copy old[1:2] new[1:2]
+2023-02-12 18:40:52,932 parso.python.diff DEBUG  parse_part from 3 to 17 (to 16 in part parser)
+2023-02-12 18:40:52,932 parso.python.diff DEBUG  -> code[replace] old[17:17] new[17:17]
+2023-02-12 18:40:52,932 parso.python.diff DEBUG  diff parser end
+2023-02-12 18:41:50,994 root INFO  We are iterating through our local var is [1, 2, 3, 4, 5, 6, 6, 7, 7, [2, 3, 4], 'Pratyush', 'Kumar']
+2023-02-12 18:41:50,995 root INFO  We are iterating through our local var is [1, 2, 3, 4, 5, 6, 6, 7, 7, [2, 3, 4], 'Pratyush', 'Kumar']
+2023-02-12 18:41:50,995 root INFO  We are iterating through our local var is [1, 2, 3, 4, 5, 6, 6, 7, 7, [2, 3, 4], 'Pratyush', 'Kumar']
+2023-02-12 18:41:50,995 root INFO  We are iterating through our local var is [1, 2, 3, 4, 5, 6, 6, 7, 7, [2, 3, 4], 'Pratyush', 'Kumar']
+2023-02-12 18:41:50,995 root INFO  We are iterating through our local var is [1, 2, 3, 4, 5, 6, 6, 7, 7, [2, 3, 4], 'Pratyush', 'Kumar']
+2023-02-12 18:41:50,996 root INFO  We are iterating through our local var is [1, 2, 3, 4, 5, 6, 6, 7, 7, [2, 3, 4], 'Pratyush', 'Kumar']
+2023-02-12 18:41:50,996 root INFO  We are iterating through our local var is [1, 2, 3, 4, 5, 6, 6, 7, 7, [2, 3, 4], 'Pratyush', 'Kumar']
+2023-02-12 18:41:50,996 root INFO  We are iterating through our local var is [1, 2, 3, 4, 5, 6, 6, 7, 7, [2, 3, 4], 'Pratyush', 'Kumar']
+2023-02-12 18:41:50,996 root INFO  We are iterating through our local var is [1, 2, 3, 4, 5, 6, 6, 7, 7, [2, 3, 4], 'Pratyush', 'Kumar']
+2023-02-12 18:41:50,997 root INFO  We are iterating through our local var is [1, 2, 3, 4, 5, 6, 6, 7, 7, [2, 3, 4], 'Pratyush', 'Kumar']
+2023-02-12 18:41:50,997 root INFO  Inside if statment and tryimg to check condition[2, 3, 4]
+2023-02-12 18:41:50,997 root INFO  Inside for statment and tryimg to check condition2
+2023-02-12 18:41:50,997 root INFO  Inside if statment and tryimg to check condition
+2023-02-12 18:41:50,997 root INFO  Inside for statment and tryimg to check condition3
+2023-02-12 18:41:50,997 root INFO  Inside if statment and tryimg to check condition
+2023-02-12 18:41:50,998 root INFO  Inside for statment and tryimg to check condition4
+2023-02-12 18:41:50,998 root INFO  Inside if statment and tryimg to check condition
+2023-02-12 18:41:50,999 root INFO  We are iterating through our local var is [1, 2, 3, 4, 5, 6, 6, 7, 7, [2, 3, 4], 'Pratyush', 'Kumar']
+2023-02-12 18:41:50,999 root INFO  We are iterating through our local var is [1, 2, 3, 4, 5, 6, 6, 7, 7, [2, 3, 4], 'Pratyush', 'Kumar']
+2023-02-12 18:41:50,999 root INFO  My final result for int is [1, 2, 3, 4, 5, 6, 6, 7, 7, 2, 3, 4] and  str is ['Pratyush', 'Kumar']
